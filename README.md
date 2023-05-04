@@ -1,5 +1,7 @@
-# <img src=https://user-images.githubusercontent.com/55955478/235950162-278285a3-c76c-4bee-b4ef-a6520f7abb9b.gif height=50 width=50> Used_Cars Data Analysis 
-<img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJmOTlhZjUyYzJkOWY0NDU5NTFhNTVkN2ZmYjZjYzEzNTI1YmM5YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2shcjyS5yLtzHyd91H/giphy.gif" height=450 width=1200>
+# Used_Cars Data Analysis 
+
+![image](https://user-images.githubusercontent.com/123991455/236119557-5f13f35f-412d-445a-b29e-c24bb636f465.png)
+
 
 
 ## About Dataset:
