@@ -36,7 +36,7 @@ We analyzed the data to gain insights into the used car market, including the fo
 
 ## Dashboard
 
-![dashboard](https://user-images.githubusercontent.com/128036066/235990975-559b9abb-8f82-46f4-87a6-e6c8b78ef805.png)
+![image](https://user-images.githubusercontent.com/123991455/236118136-223b6201-c5c1-4689-9ba7-c86c8da02aa1.png)
 <br>
 
 ## Evaluation Criteria
