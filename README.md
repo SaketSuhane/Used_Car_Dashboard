@@ -16,7 +16,7 @@ To prepare the data, we performed the following steps using the Power Query Edit
   4. Created two new columns from the car_name column: "Brand" and "Car model".
   5. Removed the original "car_name" column.
 
-## <img src=https://user-images.githubusercontent.com/106439762/178804195-d9db61fb-b2cf-4c8f-bfc3-214cfe0f534c.gif width="48" height="48" > Data Analysis:
+## Data Analysis:
 We analyzed the data to gain insights into the used car market, including the following:
   1. Relationship between the age of a used car and its price.
   2. Top 10 brands based on the average price.
